@@ -68,8 +68,8 @@ Bitbucket Repository Downloader automates bulk-cloning of Git repositories from 
 
 ```bash
 # 1. Clone this repository
-git clone https://github.com/YOUR_USERNAME/bitbucket-downloader.git
-cd bitbucket-downloader
+git clone https://github.com/roman92b92/bitbucket_repo_downloader.git
+cd bitbucket_repo_downloader
 
 # 2. Install dependencies
 pip install -r requirements.txt
@@ -352,7 +352,7 @@ Make sure you are using Python 3.8+ and running in a terminal that supports UTF-
 ## Project Structure
 
 ```
-bitbucket-downloader/
+bitbucket_repo_downloader/
 ├── bitbucket_downloader.py   # Main script — auth, API, clone/archive logic
 ├── config.example.json       # Config template (copy to config.json and edit)
 ├── requirements.txt          # Python dependencies
