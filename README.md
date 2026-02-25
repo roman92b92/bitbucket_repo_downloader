@@ -125,8 +125,8 @@ A workspace access token is scoped to the entire workspace. This is the best cho
 6. Click **Create**
 7. **Copy the token immediately** — it is shown only once
 
-> The token URL pattern is:
-> `https://bitbucket.org/{your-workspace}/workspace/settings/access-tokens`
+> Direct link for the **cywar** workspace:
+> `https://bitbucket.org/cywar/workspace/settings/access-tokens`
 
 ---
 
